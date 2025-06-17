@@ -60,7 +60,7 @@ const usuarios = [
 usuarios.forEach((item)=> console.log(`${item.nombre}`))
 
 // Filtrar usuarios que vivan en Bogotá.
-
+sndjsjdsjdnsjnd
 // Obtener un arreglo con los correos electrónicos.
 
 // Sumar las edades de todos los usuarios.
